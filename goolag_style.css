@@ -1,0 +1,143 @@
+body {
+            font-family: Arial, sans-serif;
+            font-size: 13px;
+            }
+.centre {
+                margin: 0;
+                position: absolute;
+                top: 38%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                text-align: center;
+            }
+
+.knopka {
+                width: 130px;
+                background-color: #f8f9fa;
+                color: grey;
+                border: none;
+                text-align: center;
+                font-size: 14px;
+                padding: 10px;
+                border-radius: 3px;
+                border: 1px solid white;
+                }
+
+.knopka:hover {
+                border: 1px solid black;
+            }
+form {
+                font-size: 18px;
+            }
+.googleform {
+                  padding: 12px 20px;
+                  margin: 8px;
+                  border: 0.5px solid #dfe1e5;
+                  border-radius: 35px;
+            }
+.knopka_p {
+                width: 200px;
+                background-color: #f8f9fa;
+                color: grey;
+                border: none;
+                text-align: center;
+                font-size: 14px;
+                padding: 10px;
+                border-radius: 3px;
+                border: 1px solid white;
+                }
+
+.knopka_p:hover {
+                border: 1px solid black;
+}
+
+#logotop {
+text-align : left;
+}
+#linksw {
+    width: 200%;
+    font-weight: normal;
+    vertical-align: top;
+    text-align : right;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+
+#header {
+    font-weight: normal;
+    text-align : left;
+    font-family: Arial, sans-serif;
+    color: red;
+    font-size: 20px;
+    font-weight: normal;
+    padding: 23px;
+}
+
+.ad_left {
+    font-weight: normal;
+    text-align : left;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 10px;
+}
+
+.ad_right {
+    .d-none;
+    font-weight: normal;
+    text-align : right;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 10px;
+}
+
+.form1 {
+    width: 96%;
+    padding: 5px;
+    border: 0.5px solid #dfe1e5;
+    font-size: 14px;
+}
+
+.form2 {
+    width: 46%;
+    padding: 5px;
+    border: 0.5px solid #dfe1e5;
+    font-size: 14px;
+}
+
+.knopka_w {
+
+                background-color: #4a8bf5;
+                color: white;
+                border: none;
+                text-align: center;
+                font-weight: bold;
+                font-size: 12px;
+                padding: 8px;
+                border-radius: 3px;
+                border: none;
+                }
+
+.knopka_w:hover {
+                background-color: #3e82f0
+                }
+
+#rightheadtable {
+    font-weight: normal;
+    text-align : left;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px;
+}
+
+#leftheadtable {
+    font-weight: normal;
+    text-align : left;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    color: grey;
+}
